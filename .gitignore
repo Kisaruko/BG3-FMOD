@@ -1,0 +1,7 @@
+#FMOD ignore
+/Assets/FMODStudioCache.asset
+/Assets/FMODStudioCache.asset.meta
+/Assets/Ressources/FMODStudioSettings.asset
+/Assets/Ressources/FMODStudioSettings.asset.meta
+fmod.log
+fmod_editor.log
