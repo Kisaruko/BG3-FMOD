@@ -25,3 +25,4 @@ ExportedObj/
 *.VC.db
 
 *.cache
+*.unsaved
