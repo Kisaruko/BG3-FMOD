@@ -26,3 +26,5 @@ ExportedObj/
 
 *.cache
 *.unsaved
+*.user
+.unsaved/
