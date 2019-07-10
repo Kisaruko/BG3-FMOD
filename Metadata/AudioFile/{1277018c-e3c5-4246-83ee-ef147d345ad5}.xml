@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{1277018c-e3c5-4246-83ee-ef147d345ad5}">
+        <property name="assetPath">
+            <value>MADS Ice Arrow 01 Cast.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>29.553531249999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dc15aa37-594a-4d43-b20b-9880b3c5d805}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{5507248b-ce23-4586-8d4a-bd9520b35a1b}">
+        <property name="assetPath">
+            <value>feedback_flowers-001.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>7.9158749999999998</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dc15aa37-594a-4d43-b20b-9880b3c5d805}</destination>
+        </relationship>
+    </object>
+</objects>
