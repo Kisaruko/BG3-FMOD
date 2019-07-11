@@ -24,7 +24,9 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+[Mm]etadata/
+*.xml
 *.cache
 *.unsaved
-*.user
 .unsaved/
+
